@@ -1,0 +1,135 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+
+   <meta charset="UTF-8">
+   <meta name="author" content="Jérôme Blanchard">
+   <meta name="description" content="Fellows situation">
+
+   <title>FindThePrecious</title>
+
+</head>
+
+
+<!-- Démarrage du corps BODY -->
+<body>
+
+  <nav>
+      <ul>
+        <li><a href="#" title="Home page">FindThePrecious.com</a></li>
+        <li><a href="#" title="Fellows situation">Fellows</a></li>
+        <li><a href="#" title="Something to ask us?">Contact us</a></li>
+      </ul>
+  </nav>
+
+
+  <header>
+
+    <h2>Permissi rupium acies vel fortiter tamen consternuntur necessitate summos.</h2>
+    <h3>Ex tamen ad inter eos eos.</h3>
+
+  </header>
+
+  <main>
+    <article>
+
+      <h2>Licentia omnibus nec latera vexabat. Sed vieturo incondita laeditur vieturo.</h2>
+
+	  
+      <div>
+        <ul>
+          <li><img src="https://via.placeholder.com/150x120.jpg" alt="Image of the Wizard"></li>
+          <li><a href="#" title="The wizard is here !">The wizard</a></li>
+          <li>Small description...</li>
+        </ul>
+      </div>
+
+     <div>
+        <ul>
+          <li><img src="https://via.placeholder.com/150x120.jpg" alt="Image of the Hobbit"></li>
+          <li><a href="#" title="The hobbit is here !">Hobbit #3</a></li>
+          <li>Small description...</li>
+        </ul>
+      </div>
+
+     <div>
+        <ul>
+          <li><img src="https://via.placeholder.com/150x120.jpg" alt="Image of the Yummy Dwarf"></li>
+          <li><a href="#" title="The yummy dwarf is here !">Yummy Dwarf</a></li>
+          <li>Small description...</li>
+        </ul>
+      </div>
+
+      <br/>
+      <hr/>
+
+    </article>
+
+    <section>
+
+      <h2>Contact us</h2>      
+      <form>
+         <div>
+           <label for="mail"></label>
+           <input type="email" id="mail" name="email" placeholder="@">
+         </div>
+        
+         <div>
+           <label for="address_home"></label>
+           <input type="text" id="address_home" name="address">
+         </div>
+
+         <div>
+           <label for="personal_choice"></label>
+           <select id="personal_choice" name="choice" size="1">
+              <option>I have seen one of them</option>
+              <option>c2</option>
+              <option>c3</option>
+              <option>c4</option>
+           </select>
+         </div>
+
+         <div>
+           <label for="message"></label>
+           <textarea name="message" id="message" placeholder="Your message"></textarea>
+         </div>
+
+         <div>
+           <label for="send_button"></label>
+           <button type="submit" id="send_button">Send!</button>
+         </div>
+      </form>
+
+    </section>
+  </main>
+
+  <footer>
+
+    <div>
+      <ul>
+        <li><a href="#" title="To know more about us!">About us</a></li>
+        <li><a href="#" title="To see the fellows situation">Fellows</a></li>
+        <li><a href="#" title="To come play with us">Join our army</a></li>
+      </ul>
+    </div>
+
+    <div>
+      <ul>
+        <li><a href="#" title="Answers to your fundamental questions">FAQ</a></li>
+        <li><a href="#" title="Questions about rewards">Reward conditions</a></li>
+        <li><a href="#" title="If you want to see our legal mentions">Legal mentions</a></li>
+      </ul>
+    </div>
+
+    <div>
+      <ul>
+        <li><a href="#">Sauron4Ever.com</a></li>
+        <li><a href="#">Follow him also on twitter</a></li>
+      </ul>
+    </div>
+
+  </footer>
+
+</body>
+
+</html>
